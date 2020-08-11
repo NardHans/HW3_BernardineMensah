@@ -1,5 +1,5 @@
 import React from 'react'
-import './css/sample-wallpaper.css'
+import './css/sample-imitari.css'
 
 function Imitari(props) {
     return (

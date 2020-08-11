@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import './css/layout.css';
 import './css/global.css'
-import './css/sample-wallpaper.css'
+import './css/sample-imitari.css'
 import './css/components.css'
 import Navbar from './navbar'
 import Clepe from './css/clepe'
